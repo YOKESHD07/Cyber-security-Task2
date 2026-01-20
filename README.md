@@ -15,9 +15,27 @@ posts, likes, comments, and follow/unfollow functionality.
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript
 - Backend: Django (Python)
-- Database: SQLite
+- Database: SQLit
 
-## ⚙️ Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yokesh/mini-social-media-app.git
+- # Internship App Project
+
+Author: D. Yokesh
+
+## Description
+This application was developed as part of my internship program.
+It demonstrates practical implementation of frontend and backend concepts.
+
+## Technologies Used
+- HTML, CSS, JavaScript
+- Django / Express.js
+- Database: SQLite / MySQL
+
+## Features
+- User authentication
+- Posts and comments
+- Like and follow system
+
+## How to Run
+1. Clone the repository
+2. Install dependencies
+3. Run the server
